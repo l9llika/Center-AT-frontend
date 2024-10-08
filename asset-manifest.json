@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.85fd1002.css",
-    "main.js": "/static/js/main.8d4f3f2c.js",
+    "main.css": "/static/css/main.f0e9c135.css",
+    "main.js": "/static/js/main.04a4b648.js",
     "static/media/brief-bg.png": "/static/media/brief-bg.9e9f9fcc0067d5699cb7.png",
     "static/media/engineering-image.png": "/static/media/engineering-image.bc40ca15a883c0557166.png",
     "static/media/production-image.png": "/static/media/production-image.9f757d929441b20b197f.png",
@@ -19,13 +19,17 @@
     "static/media/Jost-ExtraBold.ttf": "/static/media/Jost-ExtraBold.65d4cb8b47343570ddd1.ttf",
     "static/media/Denistina.ttf": "/static/media/Denistina.5267cea436980e4e189b.ttf",
     "static/media/viga-technology-image.png": "/static/media/viga-technology-image.5829d3d33fa33416a0c1.png",
+    "static/media/close-step-icon.svg": "/static/media/close-step-icon.ac9a4941f69d5c035eb45791912e5182.svg",
     "static/media/adv-icon-1.svg": "/static/media/adv-icon-1.48591251ffdb4ac11715062e5448fde6.svg",
     "static/media/adv-icon-4.svg": "/static/media/adv-icon-4.1e40d6e2a58a2c6b608ab9b114dfa531.svg",
     "static/media/adv-icon-2.svg": "/static/media/adv-icon-2.5f1d2b7de8fe33c1246bd693b6fda0ec.svg",
     "static/media/arrow-folded-down.svg": "/static/media/arrow-folded-down.2ebcea375a0bd52d17c52ae43f438105.svg",
     "static/media/adv-icon-3.svg": "/static/media/adv-icon-3.eb7b4dbdec0c4ac40d4dade973b0cfb7.svg",
+    "static/media/previous-step-arrow.svg": "/static/media/previous-step-arrow.2725ec9ad0e90deac161537340fd7690.svg",
     "static/media/arrow-folded-up.svg": "/static/media/arrow-folded-up.3e62a772346c42325b4e28921d35f484.svg",
     "static/media/download-icon.svg": "/static/media/download-icon.5b0aa6667a0771c6597bf1756a342ed9.svg",
+    "static/media/invalid-icon.svg": "/static/media/invalid-icon.c9579716f85c7864ca3b6f25321e07e0.svg",
+    "static/media/valid-icon.svg": "/static/media/valid-icon.d100a3ff4c4bac69c7302ebc654f8e89.svg",
     "static/media/phone-icon.svg": "/static/media/phone-icon.0b25098cc66a68eb6abbfb555f0dda75.svg",
     "static/media/phone-icon-black.svg": "/static/media/phone-icon-black.d36a2869425690433896967fe6a84ad9.svg",
     "static/media/geo-icon-black.svg": "/static/media/geo-icon-black.dedecd3d1ae0bd70756591d78ca37c9b.svg",
@@ -37,11 +41,11 @@
     "index.html": "/index.html",
     "static/media/nav-arrow-up-icon.svg": "/static/media/nav-arrow-up-icon.bf18046b6cff0f9bdefded6c46f05000.svg",
     "static/media/nav-arrow-down-icon.svg": "/static/media/nav-arrow-down-icon.744ee47820cf3299cf80cb19e5b7daae.svg",
-    "main.85fd1002.css.map": "/static/css/main.85fd1002.css.map",
-    "main.8d4f3f2c.js.map": "/static/js/main.8d4f3f2c.js.map"
+    "main.f0e9c135.css.map": "/static/css/main.f0e9c135.css.map",
+    "main.04a4b648.js.map": "/static/js/main.04a4b648.js.map"
   },
   "entrypoints": [
-    "static/css/main.85fd1002.css",
-    "static/js/main.8d4f3f2c.js"
+    "static/css/main.f0e9c135.css",
+    "static/js/main.04a4b648.js"
   ]
 }
