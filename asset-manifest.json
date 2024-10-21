@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0e9c135.css",
-    "main.js": "/static/js/main.04a4b648.js",
+    "main.css": "/static/css/main.ddc8483d.css",
+    "main.js": "/static/js/main.14e11e48.js",
     "static/media/brief-bg.png": "/static/media/brief-bg.9e9f9fcc0067d5699cb7.png",
     "static/media/engineering-image.png": "/static/media/engineering-image.bc40ca15a883c0557166.png",
     "static/media/production-image.png": "/static/media/production-image.9f757d929441b20b197f.png",
@@ -27,7 +27,6 @@
     "static/media/adv-icon-3.svg": "/static/media/adv-icon-3.eb7b4dbdec0c4ac40d4dade973b0cfb7.svg",
     "static/media/previous-step-arrow.svg": "/static/media/previous-step-arrow.2725ec9ad0e90deac161537340fd7690.svg",
     "static/media/arrow-folded-up.svg": "/static/media/arrow-folded-up.3e62a772346c42325b4e28921d35f484.svg",
-    "static/media/download-icon.svg": "/static/media/download-icon.5b0aa6667a0771c6597bf1756a342ed9.svg",
     "static/media/invalid-icon.svg": "/static/media/invalid-icon.c9579716f85c7864ca3b6f25321e07e0.svg",
     "static/media/valid-icon.svg": "/static/media/valid-icon.d100a3ff4c4bac69c7302ebc654f8e89.svg",
     "static/media/phone-icon.svg": "/static/media/phone-icon.0b25098cc66a68eb6abbfb555f0dda75.svg",
@@ -39,13 +38,13 @@
     "static/media/menu-icon.svg": "/static/media/menu-icon.55647ba2763fba9557cfa11c896f0423.svg",
     "static/media/close-menu.svg": "/static/media/close-menu.299268135e101e233e1a6c3c11c1bdf3.svg",
     "index.html": "/index.html",
-    "static/media/nav-arrow-up-icon.svg": "/static/media/nav-arrow-up-icon.bf18046b6cff0f9bdefded6c46f05000.svg",
-    "static/media/nav-arrow-down-icon.svg": "/static/media/nav-arrow-down-icon.744ee47820cf3299cf80cb19e5b7daae.svg",
-    "main.f0e9c135.css.map": "/static/css/main.f0e9c135.css.map",
-    "main.04a4b648.js.map": "/static/js/main.04a4b648.js.map"
+    "static/media/nav-arrow-up-icon.svg": "/static/media/nav-arrow-up-icon.8cfb706dbcc9e60790823bf531001262.svg",
+    "static/media/nav-arrow-down-icon.svg": "/static/media/nav-arrow-down-icon.3502632559de510dabaaab020a19dae8.svg",
+    "main.ddc8483d.css.map": "/static/css/main.ddc8483d.css.map",
+    "main.14e11e48.js.map": "/static/js/main.14e11e48.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0e9c135.css",
-    "static/js/main.04a4b648.js"
+    "static/css/main.ddc8483d.css",
+    "static/js/main.14e11e48.js"
   ]
 }
