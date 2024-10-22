@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ddc8483d.css",
-    "main.js": "/static/js/main.14e11e48.js",
+    "main.css": "/static/css/main.e6827ba8.css",
+    "main.js": "/static/js/main.c59697a8.js",
     "static/media/brief-bg.png": "/static/media/brief-bg.9e9f9fcc0067d5699cb7.png",
     "static/media/engineering-image.png": "/static/media/engineering-image.bc40ca15a883c0557166.png",
     "static/media/production-image.png": "/static/media/production-image.9f757d929441b20b197f.png",
@@ -18,6 +18,7 @@
     "static/media/PREP-image.png": "/static/media/PREP-image.056a7f1deefd8b04dc58.png",
     "static/media/Jost-ExtraBold.ttf": "/static/media/Jost-ExtraBold.65d4cb8b47343570ddd1.ttf",
     "static/media/Denistina.ttf": "/static/media/Denistina.5267cea436980e4e189b.ttf",
+    "static/media/logo-new.png": "/static/media/logo-new.a57b19d980634872efc5.png",
     "static/media/viga-technology-image.png": "/static/media/viga-technology-image.5829d3d33fa33416a0c1.png",
     "static/media/close-step-icon.svg": "/static/media/close-step-icon.ac9a4941f69d5c035eb45791912e5182.svg",
     "static/media/adv-icon-1.svg": "/static/media/adv-icon-1.48591251ffdb4ac11715062e5448fde6.svg",
@@ -31,7 +32,6 @@
     "static/media/valid-icon.svg": "/static/media/valid-icon.d100a3ff4c4bac69c7302ebc654f8e89.svg",
     "static/media/phone-icon.svg": "/static/media/phone-icon.0b25098cc66a68eb6abbfb555f0dda75.svg",
     "static/media/phone-icon-black.svg": "/static/media/phone-icon-black.d36a2869425690433896967fe6a84ad9.svg",
-    "static/media/geo-icon-black.svg": "/static/media/geo-icon-black.dedecd3d1ae0bd70756591d78ca37c9b.svg",
     "static/media/mail-icon.svg": "/static/media/mail-icon.49264069c7bea562ac6fdb3c56500668.svg",
     "static/media/mail-icon-black.svg": "/static/media/mail-icon-black.ace8a0e1dbd3ffcb711d1698543a9c28.svg",
     "static/media/time-icon-black.svg": "/static/media/time-icon-black.e8d82a9e15a4c04565bdf41e9bb1065a.svg",
@@ -40,11 +40,11 @@
     "index.html": "/index.html",
     "static/media/nav-arrow-up-icon.svg": "/static/media/nav-arrow-up-icon.8cfb706dbcc9e60790823bf531001262.svg",
     "static/media/nav-arrow-down-icon.svg": "/static/media/nav-arrow-down-icon.3502632559de510dabaaab020a19dae8.svg",
-    "main.ddc8483d.css.map": "/static/css/main.ddc8483d.css.map",
-    "main.14e11e48.js.map": "/static/js/main.14e11e48.js.map"
+    "main.e6827ba8.css.map": "/static/css/main.e6827ba8.css.map",
+    "main.c59697a8.js.map": "/static/js/main.c59697a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddc8483d.css",
-    "static/js/main.14e11e48.js"
+    "static/css/main.e6827ba8.css",
+    "static/js/main.c59697a8.js"
   ]
 }
