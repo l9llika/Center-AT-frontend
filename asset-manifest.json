@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3dc7710a.css",
-    "main.js": "/static/js/main.63775716.js",
+    "main.js": "/static/js/main.071106e4.js",
     "static/media/brief-bg.png": "/static/media/brief-bg.9e9f9fcc0067d5699cb7.png",
     "static/media/engineering-image.png": "/static/media/engineering-image.bc40ca15a883c0557166.png",
     "static/media/production-image.png": "/static/media/production-image.9f757d929441b20b197f.png",
@@ -42,10 +42,10 @@
     "static/media/nav-arrow-up-icon.svg": "/static/media/nav-arrow-up-icon.8cfb706dbcc9e60790823bf531001262.svg",
     "static/media/nav-arrow-down-icon.svg": "/static/media/nav-arrow-down-icon.3502632559de510dabaaab020a19dae8.svg",
     "main.3dc7710a.css.map": "/static/css/main.3dc7710a.css.map",
-    "main.63775716.js.map": "/static/js/main.63775716.js.map"
+    "main.071106e4.js.map": "/static/js/main.071106e4.js.map"
   },
   "entrypoints": [
     "static/css/main.3dc7710a.css",
-    "static/js/main.63775716.js"
+    "static/js/main.071106e4.js"
   ]
 }
